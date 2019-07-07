@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+}
+
+.hint {
+    position: absolute;
+    left: 40px;
+    top: 200px;
+    height: 50px;
+    width: 100px;
+    background-color: red;
+    border-radius: 10px;
+}
+
+.content {
+    margin: 0 auto;
+    width: 800px;
+    height: 400px;
+    background-color: yellow;
+}
